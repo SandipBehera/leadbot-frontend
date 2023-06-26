@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-rasafrontend-dev-33056-authRole",
+      "UnauthRoleArn": "arn:aws:iam::071354573084:role/amplify-rasafrontend-dev-33056-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::071354573084:role/amplify-rasafrontend-dev-33056-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-rasafrontend-dev-33056-deployment",
+      "UnauthRoleName": "amplify-rasafrontend-dev-33056-unauthRole",
+      "StackName": "amplify-rasafrontend-dev-33056",
+      "StackId": "arn:aws:cloudformation:us-east-2:071354573084:stack/amplify-rasafrontend-dev-33056/f0258bc0-146c-11ee-b9cf-0210c4ec5239",
+      "AmplifyAppId": "d2p70ozkbda1p"
+    }
+  }
+}
